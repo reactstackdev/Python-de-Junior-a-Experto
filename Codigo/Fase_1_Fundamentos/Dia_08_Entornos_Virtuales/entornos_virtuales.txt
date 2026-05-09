@@ -1,0 +1,14 @@
+# =============================================================================
+# ENUNCIADO
+# Aprende a aislar dependencias de un proyecto con entornos virtuales.
+#   1. Crea un entorno virtual dentro de Dia_08_Entornos_Virtuales con:
+#      python -m venv venv
+#   2. Actívalo con:
+#      venv\Scripts\activate
+#   3. Instala la librería requests con pip.
+#   4. Genera el fichero requirements.txt con:
+#      pip freeze > requirements.txt
+#   5. Abre requirements.txt y anota qué librerías aparecen y sus versiones.
+# No hay fichero .py en este ejercicio — el aprendizaje es en la terminal.
+# =============================================================================
+
